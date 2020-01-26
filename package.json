@@ -1,0 +1,23 @@
+{
+  "name": "unifi-automate",
+  "version": "1.0.0",
+  "description": "API client for UniFi network automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzu-project/unifi-automate-nodejs.git"
+  },
+  "keywords": [
+    "unifi",
+    "automation"
+  ],
+  "author": "Renato T. Yamassaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuzu-project/unifi-automate-nodejs/issues"
+  },
+  "homepage": "https://github.com/yuzu-project/unifi-automate-nodejs#readme"
+}
