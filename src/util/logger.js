@@ -1,6 +1,6 @@
 const winston = require('winston');
 
-class logger {
+class Logger {
   constructor() {
     this.innerLogger = winston.createLogger({
       transports: [
@@ -31,4 +31,4 @@ class logger {
   }
 }
 
-export default logger;
+module.exports = Logger;

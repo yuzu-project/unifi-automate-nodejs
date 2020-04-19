@@ -13,4 +13,4 @@ class AuthenticationToken {
   }
 }
 
-export default AuthenticationToken;
+module.exports = AuthenticationToken;
